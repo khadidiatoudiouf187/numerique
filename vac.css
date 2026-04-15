@@ -55,7 +55,7 @@ nav ul li a:hover { color: #c9a96e; }
   position: relative;
   height: 420px;
   background: linear-gradient(rgba(30,10,0,0.55), rgba(30,10,0,0.55)),
-    url(images/café\ acceuil.jpg) center/cover;
+    url(image.png) center/cover;
   display: flex;
   flex-direction: column;
   align-items: center;
