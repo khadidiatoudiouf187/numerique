@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "coucou",
+			"path": "."
+		},
+		{
+			"name": "photo ordinateur informatique travail en groupe - Recherche Images_files",
+			"path": "../../Downloads/photo ordinateur informatique travail en groupe - Recherche Images_files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coucou"
+	}
+}
